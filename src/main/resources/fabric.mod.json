@@ -1,1 +1,5 @@
-{"schemaVersion": 1,"id": "shield_trims","version": "1.0","name": "Shield Trims","description": "Vanilla Trims for Shields!","authors": ["Huyuki_Natsuko"],"license": "CC0-1.0","icon": "assets/shield_trims/icon.png","environment": "*","entrypoints": {"client": ["com.HuyukiNatsuko.shieldtrims.ShieldTrimsClient"]},"accessWidener": "shield_trims.classtweaker","depends": {"fabricloader": ">=0.20.1","minecraft": "~26.3","java": ">=25","fabric-api": "*"}}
+{"schemaVersion": 1,
+"id": "shield_trims","version": "${version}","name": "Shield Trims",
+"description": "Vanilla Trims for Shields!","authors": ["Huyuki_Natsuko"],"license": "CC0-1.0",
+"icon": "assets/shield_trims/icon.png","environment": "*","entrypoints": {"client": ["com.HuyukiNatsuko.shieldtrims.ShieldTrimsClient"]},
+"accessWidener": "shield_trims.classtweaker","depends": {"fabricloader": ">=0.20.1","minecraft": "~26.3","java": ">=25","fabric-api": "*"}}
