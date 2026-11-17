@@ -1,9 +1,14 @@
 # About
+<img src="https://github.com/user-attachments/assets/d7db794c-9d36-42a0-96da-3bdb9befb235" />
+
+
 Vanilla trims, which were previously only available for armor, can now be applied to shields as well.
 
 ## Setup
 how make it?: Just Same like armor!
-<img width="2576" height="1449" alt="image" src="https://github.com/user-attachments/assets/8e1400cb-0dcb-4c3e-8b91-bbc8202ee3c8" />
+<img src="https://github.com/user-attachments/assets/43e716fd-566a-41a5-a896-0ce2c9f9308c" />
+<img src="https://github.com/user-attachments/assets/f02072a4-e557-4c02-8f9d-ab758525302e" />
+
 this picture is all vanilla template and materials
 >[!NOTE]
 >## Custom trim materials (data packs)
@@ -23,7 +28,7 @@ this picture is all vanilla template and materials
 >
 >| Without the resource pack (fallback tint) | With the official resource pack |
 >|---|---|
->| <img width="3840" height="2160" alt="31_colorful_trims_without_resource_pack" src="https://github.com/user-attachments/assets/0e78eae9-260d-40a1-9fec-35824f80f16c" /> | <img width="3840" height="2160" alt="32_colorful_trims_with_resource_pack" src="https://github.com/user-attachments/assets/293816ed-d65d-4e20-90f7-e0863df25197" /> |
+>| <img alt="31_colorful_trims_without_resource_pack" src="https://github.com/user-attachments/assets/bb645d3c-2b6a-4fa1-a1b7-b14a9dbed42a" /> | <img alt="32_colorful_trims_with_resource_pack" src="https://github.com/user-attachments/assets/4c154b5b-17b8-49d9-a83c-93459650ee1f" /> |
 >
 >To get the intended colours, use one of these:
 >- the **data pack** in your world **and** the **resource pack** enabled on every client, or
